@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers==4.40.1
+tokenizers==0.19.1
+accelerate==1.1.1
+bitsandbytes
+timm
+einops
+huggingface_hub
+opencv-python
+pyrealsense2
+matplotlib
+pillow
+numpy
